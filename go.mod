@@ -1,4 +1,4 @@
-module gRPCgo/v1
+module gRPCgo
 
 go 1.13
 
